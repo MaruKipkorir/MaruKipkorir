@@ -1,7 +1,5 @@
 - 👋 Hi, I’m @Maru Kipkorir
-- 👀 I’m interested in Data Science and Machine Learning
-- 🌱 I’m currently perfecting my Data Science skills and learning ML
--    I am proficient in Java, Python and C++.
+- 👀 I am a data scientist
 - 📫 How to reach me kipkorirmaru8@gmail.com
 
 <!---
